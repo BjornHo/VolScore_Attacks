@@ -1,0 +1,7 @@
+Dataset,Attack,RefSpeed,Mean Dynamic RefSpeed,Runtime (sec),Accuracy (%)
+enron,RefVolScore,2,N/A,40.93,81.03
+enron,ClusterVolScore,2,3.18,25.35,80.89
+enron,RefVolScore,4,N/A,20.97,84.08
+enron,ClusterVolScore,4,3.07,25.62,83.42
+enron,RefVolScore,8,N/A,11.39,66.88
+enron,ClusterVolScore,8,3.18,25.93,75.14

@@ -1,0 +1,7 @@
+Dataset,Attack,RefSpeed,Mean Dynamic RefSpeed,Runtime (sec),Accuracy (%)
+wiki,RefVolScore,2,N/A,37.98,62.12
+wiki,ClusterVolScore,2,2.76,26.68,56.44
+wiki,RefVolScore,4,N/A,19.19,55.65
+wiki,ClusterVolScore,4,2.85,25.59,57.95
+wiki,RefVolScore,8,N/A,10.28,59.42
+wiki,ClusterVolScore,8,2.86,26.37,58.63

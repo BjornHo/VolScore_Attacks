@@ -1,0 +1,7 @@
+Dataset,Attack,RefSpeed,Mean Dynamic RefSpeed,Runtime (sec),Accuracy (%)
+apache,RefVolScore,2,N/A,22.82,94.52
+apache,ClusterVolScore,2,3.94,11.39,94.59
+apache,RefVolScore,4,N/A,11.61,91.51
+apache,ClusterVolScore,4,3.9,11.06,91.82
+apache,RefVolScore,8,N/A,7.35,95.1
+apache,ClusterVolScore,8,3.77,13.74,95.38

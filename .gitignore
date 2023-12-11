@@ -1,0 +1,12 @@
+env
+.idea
+__pycache__/*
+Old_Attacks/__pycache__/
+maildir/*
+*.csv
+*.pdf
+!experiment_results/*
+maildir*/*
+apache_ml/*
+*.iml
+wiki_plaintext/*

@@ -1,0 +1,4 @@
+Dataset,Nr queries known,KnownQ acc,Newly found KnownQ,Total KnownQ Acc,RefScore Acc,VolScore Acc,RefVolScore Acc,ClusterVolScore Acc
+wiki,2,100,2.15,74.04,7.47,1.99,19.83,27.06
+wiki,3,100,2.75,80.51,28.81,2.14,33.98,37.11
+wiki,4,100,3.4,85.36,26.54,2.88,40.07,47.67
